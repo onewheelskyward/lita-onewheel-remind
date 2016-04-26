@@ -1,7 +1,7 @@
 # lita-onewheel-remind
 
 [![Build Status](https://travis-ci.org/onewheelskyward/lita-onewheel-remind.png?branch=master)](https://travis-ci.org/onewheelskyward/lita-onewheel-remind)
-[![Coverage Status](https://coveralls.io/repos/onewheelskyward/lita-onewheel-remind/badge.png)](https://coveralls.io/r/onewheelskyward/lita-onewheel-remind)
+[![Coverage Status](https://coveralls.io/repos/github/onewheelskyward/lita-onewheel-remind/badge.svg?branch=master)](https://coveralls.io/github/onewheelskyward/lita-onewheel-remind?branch=master)
 
 Remind yourself of things and stuff.
 
