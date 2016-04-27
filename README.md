@@ -20,3 +20,6 @@ n/a
 ## Usage
 
 /remind me in 10 minutes to plotz.
+/remind me in 1 hour blah
+
+Follow this model.  https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
